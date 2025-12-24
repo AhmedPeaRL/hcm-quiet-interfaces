@@ -1,0 +1,4 @@
+receivers: 1
+selection: none
+optimization: disabled
+comparison: forbidden
